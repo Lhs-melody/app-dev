@@ -1,2 +1,12 @@
 # app-dev
 My first repository
+**These are the list of my Favorite Series/Movies**
+1. [The Conjuring](https://www.netflix.com/be-en/title/70251894)
+*The Conjuring is a 2013 American supernatural horror film directed by James Wan and written by Chad Hayes and Carey W. Hayes. It is the inaugural film in The Conjuring Universe franchise. Patrick Wilson and Vera Farmiga star as Ed and Lorraine Warren, paranormal investigators and authors associated with prominent cases of haunting. Their purportedly real-life reports inspired The Amityville Horror story and film franchise. The Warrens come to the assistance of the Perron family, who experienced increasingly disturbing events in their newly occupied farmhouse in Rhode Island in 1971.*
+2. [Alice and the borderland](https://www.netflix.com/ph-en/title/80200575)
+*Alice in Borderland is a Japanese science fiction thriller drama streaming television series based on the manga by Haro Aso. The series was directed by Shinsuke Sato. It stars Kento Yamazaki and Tao Tsuchiya as allies trapped in an abandoned Tokyo forced to compete in dangerous games, the type and difficulty represented by playing cards, to extend "visas" that, if expired, result in the player's execution by lasers being shot from the sky.*
+3. [Tokyo Revengers](https://www.crunchyroll.com/series/G3KHEVMN1/tokyo-revengers)
+*Tokyo Revengers is a Japanese manga series written and illustrated by Ken Wakui. It was serialized in Kodansha's shōnen manga magazine Weekly Shōnen Magazine from March 2017 to November 2022, with its chapters collected in 31 tankōbon volumes. The story follows Takemichi Hanagaki, a 26-year-old temp worker with a gloomy life, who learns that his ex-girlfriend, Hinata Tachibana, has died in a dispute involving the Tokyo Manji Gang. The next day, while returning from a part-time job, Takemichi gets pushed off the subway platform by someone. As he is about to be hit, he jumps twelve years back in time, to the year he was dating Hinata. Finding that out, he makes the decision to do everything to prevent her death.*
+4. [Haikyuu!](https://www.crunchyroll.com/series/GY8VM8MWY/haikyu)
+*Haikyu!! (ハイキュー!!) is a Japanese manga series written and illustrated by Haruichi Furudate. It was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from February 2012 to July 2020, with its chapters collected in 45 tankōbon volumes. The story follows Shoyo Hinata, a boy determined to become a great volleyball player despite his small stature.*
+
